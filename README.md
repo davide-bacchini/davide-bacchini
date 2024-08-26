@@ -43,6 +43,5 @@ An automated system that monitors Gmail inbox, creates AI-powered draft response
 
 ## 📫 How to reach me
 - Email: davide.bacchini@studbocconi.it
-- Phone: +39 346 434 8222
-
+- 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
