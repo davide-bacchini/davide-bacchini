@@ -4,7 +4,7 @@
 I'm currently studying Economics, Management, and Computer Science at Bocconi University, with a strong focus on Artificial Intelligence and software development. I founded theHackLab, Bocconi's first student-led software development association, where teams compete in semester-long hackathons to build apps, websites, and innovative solutions. Throughout the competition, participants are guided through technical and strategic challenges, with the best projects awarded at the final event.
 
 ## 🚀 Experience
-- **Data Science Intern** at Speda (Copenhagen)
+### **Data Science Intern** at Speda (Copenhagen)
 - Fine-tuned a GPT-4 model to analyze clinical notes, achieving 96% extraction accuracy.
 - Developed a web scraper that reduced data collection time by 90%.
 - Built an AI tool for meeting transcription and summarization, saving 3 hours daily.
