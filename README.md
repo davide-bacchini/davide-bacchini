@@ -24,12 +24,6 @@ I am an M.Eng. student in Operations Research and Information Engineering at Cor
 - **French Conversation AI**
   A conversational AI tutor for practicing French through interactive dialogue.
 
-## Tech stack
-
-```text
-Python · SQL · R · pandas · scikit-learn · FAISS · Machine Learning · LLMs · RAG · Model Evaluation · Git
-```
-
-## Elsewhere
+## LinkedIn
 
 [LinkedIn](https://www.linkedin.com/in/davide-bacchini/)
