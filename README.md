@@ -6,7 +6,7 @@ I am an M.Eng. student in Operations Research and Information Engineering at Cor
 
 - 🇺🇸 M.Eng. ORIE '27 @ Cornell Tech
 - 🇮🇹 BSc in Economics, Management and Computer Science @ Bocconi University
-- 💼 Ex Amazon, Vodafone, and startup data science
+- 💼 Ex @ Amazon, @ Vodafone, and @ Speda
 - 🧠 Interested in applied AI, analytics, product, and automation
 - 🚀 Founded theHackLab Bocconi, Bocconi's first startup association
 
